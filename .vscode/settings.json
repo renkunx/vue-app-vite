@@ -2,7 +2,7 @@
   "i18n-ally.localesPaths": [
     "src/i18n"
   ],
-  "i18n-ally.keystyle": "flat",
+  "i18n-ally.keystyle": "nested",
   "i18n-ally.pathMatcher": "{locale}.json",
   "i18n-ally.ignoredLocales":["index"],
   "i18n-ally.enabledParsers": ["json"],

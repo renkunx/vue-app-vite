@@ -1,5 +1,6 @@
 {
   "hello": "Hello!",
   "translate": "This article needs to be translated",
-  "component.title": "theme"
+  "component.title": "theme",
+  "app.title": "Vue 3 Documentation, Extract text into i18n message"
 }

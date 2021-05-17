@@ -3,11 +3,13 @@
 
   <p>
     <a href="https://vitejs.dev/guide/features.html" target="_blank">
-      Vite Documentation
+      {{ $t('app.linktoDocument') }}
     </a>
     |
-    <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
+    <a href="https://v3.vuejs.org/" target="_blank">{{ $t('app.title') }}</a>
   </p>
+
+  <p>主题</p>
 
   <button @click="state.count++">count is: {{ state.count }}</button>
   <p><code>components/HelloWorld.vue</code> to test hot module replacement.</p>
